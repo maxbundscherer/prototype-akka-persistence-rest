@@ -1,6 +1,5 @@
 # Prototype Akka Persistence Rest
 
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](#)
 [![shields.io](http://img.shields.io/badge/license-Apache2-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0.txt)
 
 **Prototypes a akka persistence project with rest interface (written in scala)**
